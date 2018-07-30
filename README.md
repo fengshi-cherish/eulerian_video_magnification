@@ -1,0 +1,2 @@
+# eulerian_video_magnification
+实现欧拉视频放大并用于心率检测等
